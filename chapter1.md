@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Part 1 - Introduction
+## Introduction
 
 ```yaml
 type: VideoExercise
